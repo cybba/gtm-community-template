@@ -1,0 +1,5 @@
+homepage: "https://cybba.com"
+documentation: "https://cybba.com/implementation-guides"
+versions:
+  - sha: 1ac532830224673897535467f7e597a6a612cfe3
+    changeNotes: adding initial template file
