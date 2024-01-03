@@ -1,5 +1,5 @@
 homepage: "https://cybba.com"
 documentation: "https://cybba.com/implementation-guides"
 versions:
-  - sha: 1ac532830224673897535467f7e597a6a612cfe3
-    changeNotes: adding initial template file
+  - sha: 7a4c30c27695073e8a37da0ad86d2ad11f746ea3
+    changeNotes: updating temaplte file to include categories
