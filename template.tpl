@@ -9,16 +9,12 @@ Google may provide), as modified from time to time.
 ___INFO___
 
 {
-  "displayName": "Cybba Container Tag Template",
-  "categories": ["AFFILIATE_MARKETING", "ADVERTISING", "EMAIL_MARKETING", "ANALYTICS", "ATTRIBUTION", "CONVERSIONS", "LEAD_GENERATION", "MARKETING", "PERSONALIZATION", "REMARKETING"]
-}
-
-{
   "type": "TAG",
   "id": "cvt_temp_public_id",
   "version": 1,
   "securityGroups": [],
   "displayName": "Cybba",
+  "categories": ["AFFILIATE_MARKETING", "ADVERTISING", "EMAIL_MARKETING", "ANALYTICS", "ATTRIBUTION", "CONVERSIONS", "LEAD_GENERATION", "MARKETING", "PERSONALIZATION", "REMARKETING"],
   "brand": {
     "id": "brand_dummy",
     "displayName": "",
