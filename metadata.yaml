@@ -1,5 +1,5 @@
 homepage: "https://cybba.com"
 documentation: "https://cybba.atlassian.net/wiki/external/YTNkYWJmODUwMzUzNGEzZTk3ZmE5ZmEwZGI5MWJkMjU"
 versions:
-  - sha: 3d1ff0d123fe9a9e5581855f83ed275c6296c83e
+  - sha: 19a3a1755f060948b3bfcb3427ce2c0152bea313
     changeNotes: fixed tempalte error
