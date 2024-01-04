@@ -1,5 +1,5 @@
 homepage: "https://cybba.com"
 documentation: "https://cybba.atlassian.net/wiki/external/YTNkYWJmODUwMzUzNGEzZTk3ZmE5ZmEwZGI5MWJkMjU"
 versions:
-  - sha: 7a4c30c27695073e8a37da0ad86d2ad11f746ea3
-    changeNotes: updating template file to include categories
+  - sha: 3d1ff0d123fe9a9e5581855f83ed275c6296c83e
+    changeNotes: fixed tempalte error
